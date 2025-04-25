@@ -1,1 +1,1 @@
-# Azure-data-factory
+Azure Data Factory is Azure Cloud ETL service for scale-out serverless data integration and data transformation. service that allows to create data-driven workflow for orchestrating and automating data movement and transforming data at scale.
