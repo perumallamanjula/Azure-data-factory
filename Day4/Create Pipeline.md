@@ -32,9 +32,13 @@ Open the Author tab in your Azure Data Factory interface. This is where you desi
 Click on the + button and select Dataset from the dropdown menu.
 Choose the data store type that matches your source linked service. For example, if your source is Azure Blob Storage, select the corresponding data store type, such as Delimited Text, Parquet, or another relevant option.
 Configure the dataset:
+
 **Linked service:** Select the linked service you created earlier for the data source.
+
 **File path:** Specify the path or container where your source data resides.
+
 **Schema and format:** Define the data format (e.g., CSV, JSON) and import the schema if applicable. This allows ADF to understand the structure of your data.
+
 Click OK to save the dataset.
 
 ### 3. Add a dataset for the destination
@@ -42,9 +46,13 @@ Click OK to save the dataset.
 Repeat the process for the destination dataset.
 Choose the data store type that matches your destination linked service. For example, if your destination is Azure SQL Database, select the appropriate type, such as Table.
 Configure the dataset:
+
 **Linked service:** Select the linked service you created for the destination.
+
 **Table name or path:** Specify the table or destination path where the data will be written.
+
 **Schema:** Optionally define or import the schema for the destination dataset to ensure compatibility with the source data.
+
 Save the dataset.
 
 # Step 3: Add activities
