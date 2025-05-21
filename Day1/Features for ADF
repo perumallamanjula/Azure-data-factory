@@ -1,18 +1,49 @@
+# Vocabulary in Cloud Computing
 
-##  what is Azure Data Factory ?
+## Virtualization
 
-Azure Data Factory (ADF) is a cloud-based data integration service designed to orchestrate and automate data workflows. 
-It is used to collect, transform, and deliver data, ensuring that insights are readily accessible for analytics and decision-making. 
-With its scalable and serverless architecture, ADF can handle workflows of any size—from simple data migrations to complex data transformation pipelines.
-ADF bridges the gap between data silos, enabling users to move and transform data between on-premises systems, cloud services, and external platforms. 
+Virtualization is the process of creating a virtual version of something, such as an operating system, server, storage, or network resources.
 
-## Features of Azure Data Factory
+## Virtual Machine
 
-1.Data integration
-Azure Data Factory supports integration with over 90 data sources, including cloud-based and on-premises systems. It includes support for SQL databases, NoSQL systems, REST APIs, and file-based data sources, allowing you to unify data workflows regardless of the source or format.
+A Virtual Machine (VM) is a software-based emulation of a physical computer. It allows running multiple operating systems on a single physical machine.
 
-2.No-code pipeline authoring
-ADF’s drag-and-drop interface simplifies how users create data pipelines. With prebuilt templates, guided configuration wizards, and an intuitive visual editor, even users with no coding expertise can design comprehensive end-to-end workflows. 
+## API (Application Programming Interface)
 
-3.Scheduling
-Azure Data Factory’s scheduling tools offer workflow automation. Users can set up triggers based on specific conditions, such as a file’s arrival in cloud storage or scheduled time intervals. These scheduling options eliminate the need for manual interventions and ensure workflows are executed consistently and reliably.
+API is a set of rules and protocols that allows different software applications to communicate with each other. It defines how software components should interact.
+
+## Regions
+
+Regions in cloud computing refer to geographic locations where cloud providers have data centers. Each region contains multiple data centers.
+
+## Availability Zones
+
+Availability Zones are isolated locations within a region that have their own power, cooling, and networking. They are designed to provide high availability and fault tolerance.
+
+## Scalability
+
+Scalability is the ability of a system to handle an increasing amount of work or its potential to be enlarged to accommodate that growth.
+
+## Elasticity
+
+Elasticity in cloud computing refers to the ability to dynamically scale resources up or down based on demand.
+
+## Agility
+
+Agility is the capability of quickly and easily adapting to changes. In the context of cloud computing, it involves the rapid deployment of resources and applications.
+
+## High Availability
+
+High Availability (HA) ensures that a system or application is operational and accessible for a high percentage of time, typically 99.9% or higher.
+
+## Fault Tolerance
+
+Fault Tolerance is the ability of a system to continue operating without interruption in the presence of hardware or software failures.
+
+## Disaster Recovery
+
+Disaster Recovery involves the planning and processes for restoring and recovering data and systems after a natural or human-induced disaster.
+
+## Load Balancing
+
+Load Balancing is the distribution of network traffic or computing workload across multiple servers to ensure no single server is overwhelmed.
