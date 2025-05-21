@@ -1,4 +1,3 @@
-
 # Best Practices for Using Azure Data Factory
 Lastly, it’s worth reviewing some best practices for using ADF effectively.
 
