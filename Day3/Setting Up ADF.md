@@ -16,5 +16,7 @@ Now, let’s move to the practical section of this guide!
 The ADF interface consists of the following main sections (accessible via the left-hand navigation menu)
 
 **1. Author:** For creating and managing pipelines.
+
 **2. Monitor:** To track pipeline runs and troubleshoot issues.
+
 **3. Manage:** For configuring linked services and integration runtimes.
