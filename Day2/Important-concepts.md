@@ -30,6 +30,8 @@ They act as bridges between Azure Data Factory and the external resources it int
 ## 5. Integration runtimes
 Integration runtimes (IRs) are the compute environments that power data movement, transformation, and activity execution within Azure Data Factory. ADF provides three types of integration runtimes:
 
-Azure IR: Handles cloud-based data integration tasks and is managed entirely by Azure.
-Self-hosted IR: Supports data movement between on-premises systems and the cloud, making it ideal for hybrid scenarios.
-SSIS IR: Enables the execution of SQL Server Integration Services (SSIS) packages within Azure, allowing you to reuse existing SSIS workflows in the cloud.
+**Azure IR:** Handles cloud-based data integration tasks and is managed entirely by Azure.
+
+**Self-hosted IR:** Supports data movement between on-premises systems and the cloud, making it ideal for hybrid scenarios.
+
+**SSIS IR:** Enables the execution of SQL Server Integration Services (SSIS) packages within Azure, allowing you to reuse existing SSIS workflows in the cloud.
