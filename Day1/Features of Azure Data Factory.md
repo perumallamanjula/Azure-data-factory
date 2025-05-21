@@ -7,11 +7,11 @@ ADF bridges the gap between data silos, enabling users to move and transform dat
 
 ## Features of Azure Data Factory
 
- ** 1.Data integration:**
+ #### 1.Data integration:
 Azure Data Factory supports integration with over 90 data sources, including cloud-based and on-premises systems. It includes support for SQL databases, NoSQL systems, REST APIs, and file-based data sources, allowing you to unify data workflows regardless of the source or format.
 
-** 2.No-code pipeline authoring:**
+#### 2.No-code pipeline authoring:
 ADF’s drag-and-drop interface simplifies how users create data pipelines. With prebuilt templates, guided configuration wizards, and an intuitive visual editor, even users with no coding expertise can design comprehensive end-to-end workflows. 
 
-** 3.Scheduling:**
+#### 3.Scheduling:
 Azure Data Factory’s scheduling tools offer workflow automation. Users can set up triggers based on specific conditions, such as a file’s arrival in cloud storage or scheduled time intervals. These scheduling options eliminate the need for manual interventions and ensure workflows are executed consistently and reliably.
